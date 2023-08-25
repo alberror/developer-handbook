@@ -112,106 +112,86 @@ Application state management
 *   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
 *   [ ] You know how to run asynchronous functions (e.g. <code>fetch</code>) after something dispatches an action
 
-Apptension React Boilerplate
-----------------------------
-
-*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
-*   [ ] You know how to run a linter
-*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
-*   [ ] You know how to create a new route and its component
-
 Styling
 -------
 
 ### [CSS](/Technical%20Stack/Frontend%20Developer/Styling.md#css)
 
-*   [ ] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
-*   [ ] You know how to apply basic styles to elements (colour, size, position, etc)
-*   [ ] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
-*   [ ] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
-*   [ ] You know how to use media queries
+*   [x] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
+*   [x] You know how to apply basic styles to elements (colour, size, position, etc)
+*   [x] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
+*   [x] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
+*   [x] You know how to use media queries
 
 #### [CSS in JS](/Technical%20Stack/Frontend%20Developer/Styling.md#css-in-js)
 
 ##### [styled-components](/Technical%20Stack/Frontend%20Developer/Styling.md#styled-components)
 
-*   [ ] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
-*   [ ] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
+*   [x] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
+*   [x] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
 
 #### [Flexbox](/Technical%20Stack/Frontend%20Developer/Styling.md#flexbox)
 
 You can learn how to style HTML elements with flexbox by reading this awesome guide [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-*   [ ] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
-*   [ ] You know how to align children elements [:books:](https://flexboxfroggy.com/)
-*   [ ] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
-*   [ ] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
+*   [x] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
+*   [x] You know how to align children elements [:books:](https://flexboxfroggy.com/)
+*   [x] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
+*   [x] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
 
 #### [CSS Grid](/Technical%20Stack/Frontend%20Developer/Styling.md#css-grid)
 
-*   [ ] You know how to divide a web page to rows and columns
-*   [ ] You can position elements in a grid
+*   [x] You know how to divide a web page to rows and columns
+*   [x] You can position elements in a grid
 
 ### \[Optional\] [Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
 
-*   [ ] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
-*   [ ] You know how to create and use scss variables
+*   [x] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
+*   [] You know how to create and use scss variables
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
-*   [ ] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
+*   [x] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
 
 Date & Time
 -----------
 
-*   [ ] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
-*   [ ] You know how to compare native date objects
-
-### \[Optional\] [react-datetime](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#react-datetime)
-
-*   [ ] You know how to format and display a date object using standard format strings
-
-### \[Optional\] [moment.js](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#moment.js)
-
-*   [ ] You know how to format and display a date object using standard format strings
-
-### \[Optional\] [dayjs](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#dayjs)
-
-*   [ ] You know how to format and display a date object using standard format strings
+*   [x] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+*   [x] You know how to compare native date objects
 
 Routing
 -------
 
 ### [react-router](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router)
 
-*   [ ] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
-*   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
-*   [ ] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
-*   [ ] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
-*   [ ] You know how to use <Redirect> in order to render a needed component in a given occasion
+*   [x] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
+*   [x] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
+*   [x] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
+*   [x] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
+*   [] You know how to use <Redirect> in order to render a needed component in a given occasion
 
 ### [react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
 
-*   [ ] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
+*   [x] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
 
 Animations
 ----------
 
 ### [CSS Animations](/Technical%20Stack/Frontend%20Developer/Animations.md#css-animations)
 
-*   [ ] You know how write CSS animations - transitions, keyframes [:books:](https://www.youtube.com/watch?v=zHUpx90NerM)
+*   [x] You know how write CSS animations - transitions, keyframes [:books:](https://www.youtube.com/watch?v=zHUpx90NerM)
 
 Internationalization
 --------------------
 
 ### [react-Intl](/Technical%20Stack/Mobile%20Developer/Internationalization.md#react-intl)
 
-*   [ ] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
+*   [x] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
 
 Audio and Video
 ---------------
 
-*   [ ] You know how to use standard HTML Audio and Video tags
+*   [x] You know how to use standard HTML Audio and Video tags
 
 Development Tools
 -----------------
@@ -220,31 +200,31 @@ Development Tools
 
 #### [Webpack](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#webpack)
 
-*   [ ] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
+*   [x] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
 
 ### [Package managers](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#package-managers)
 
 #### [Yarn](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#yarn)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
-*   [ ] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
+*   [x] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
 
 #### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
-*   [ ] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
+*   [x] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
 
 ### [Generators](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#generators)
 
 #### [create-react-app](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#create-react-app)
 
-*   [ ] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
+*   [x] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
 
 ### [React](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#react)
 
 #### [prop-types](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prop-types)
 
-*   [ ] You know how to describe component's prop types
+*   [x] You know how to describe component's prop types
 
 #### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
@@ -255,25 +235,25 @@ HTTP
 
 ### [Requests](/Technical%20Stack/Mobile%20Developer/HTTP.md#requests)
 
-*   [ ] You know what cookies are
-*   [ ] You know what HTTP headers are
+*   [x] You know what cookies are
+*   [x] You know what HTTP headers are
 
 #### [fetch](/Technical%20Stack/Mobile%20Developer/HTTP.md#fetch)
 
-*   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-*   [ ] You know how to set HTTP headers in a request
+*   [x] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+*   [x] You know how to set HTTP headers in a request
 
 #### [Axios](/Technical%20Stack/Mobile%20Developer/HTTP.md#axios)
 
-*   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
-*   [ ] You know how to set HTTP headers in a request
+*   [x] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
+*   [x] You know how to set HTTP headers in a request
 
 Testing
 -------
 
 ### [jest](/Technical%20Stack/Mobile%20Developer/Testing.md#jest)
 
-*   [ ] You know how to test components and functions
+*   [x] You know how to test components and functions
 
 Tools
 -----
@@ -282,27 +262,23 @@ Tools
 
 #### [Figma](/Technical%20Stack/Mobile%20Developer/Tools.md#figma)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
-*   [ ] You know how to extract image assets from a design project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
+*   [x] You know how to extract image assets from a design project
 
 #### [Zeplin](/Technical%20Stack/Mobile%20Developer/Tools.md#zeplin)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
-*   [ ] You know how to extract image assets from a design project
-
-#### \[Optional\] [Invision](/Technical%20Stack/Mobile%20Developer/Tools.md#invision)
-
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [x] You know how to extract image assets from a design project
 
 #### \[Optional\] [Adobe XD](/Technical%20Stack/Mobile%20Developer/Tools.md#adobe-xd)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
-*   [ ] You know how to extract image assets from a design project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [x] You know how to extract image assets from a design project
 
 Browsers
 --------
 
-*   [ ] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+*   [x] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 * * *
 
