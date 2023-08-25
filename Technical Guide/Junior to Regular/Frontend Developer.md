@@ -14,23 +14,23 @@ Company practices
 
 #### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
-*   [ ] You know how to create and reference issues
-*   [ ] You know how to verify when a build check failed
+*   [x] You know how to create and reference issues
+*   [x] You know how to verify when a build check failed
 
 ### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
 
 #### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
-*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
-*   [ ] You know how to create groups and channels
+*   [x] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [x] You know how to create groups and channels
 
 #### [Small Improvements](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#small-improvements)
 
-*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+*   [x] You know how to give praise and add talk topics to a 1:1 meeting
 
 #### [Email](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#email)
 
-*   [ ] You can configure local email client
+*   [x] You can configure local email client
 
 React
 -----
@@ -39,17 +39,17 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
-*   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
-*   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
-*   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
-*   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
-*   [ ] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
+*   [x] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [x] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
+*   [x] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
+*   [x] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
+*   [x] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [x] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
 
 ### [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
-*   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+*   [x] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [x] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 
 Application state management
 ----------------------------
