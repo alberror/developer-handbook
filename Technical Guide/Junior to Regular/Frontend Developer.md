@@ -147,7 +147,7 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 ### \[Optional\] [Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
 
 *   [x] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
-*   [] You know how to create and use scss variables
+*   [x] You know how to create and use scss variables
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
@@ -168,7 +168,7 @@ Routing
 *   [x] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
 *   [x] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
 *   [x] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
-*   [] You know how to use <Redirect> in order to render a needed component in a given occasion
+*   [x] You know how to use <Redirect> in order to render a needed component in a given occasion
 
 ### [react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
 
